@@ -55,6 +55,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 - Github: https://github.com/fibikunle/challenge12-employee-tracker
 
-- walkthrough video:
+- walkthrough video: https://www.loom.com/share/e2e7ef85d3404f938d4c9402cecb28b2?sid=c21f1ab2-f991-4cc3-ba0a-472f345b2b03 
 
 - email: felixibikunle@gmail.com
