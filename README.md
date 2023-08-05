@@ -53,8 +53,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Questions
 
-- Github:
+- Github: https://github.com/fibikunle/challenge12-employee-tracker
 
 - walkthrough video:
 
-- email:
+- email: felixibikunle@gmail.com
